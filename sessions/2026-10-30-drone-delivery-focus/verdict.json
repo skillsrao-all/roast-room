@@ -1,0 +1,45 @@
+{
+  "label": "GO WITH CONDITIONS",
+  "call": "Sell medical delivery to health systems as a done-for-you service priced per run, and subcontract every flight to a certified operator already approved for the corridor. Buy no aircraft, and drop the retail and food lean.",
+  "recommended": "A",
+  "why": [
+    { "point": "Retail and food drops cost $15 to $25 against $8 to $12 needed, and the giants already own the merchants.", "seat": "Hormozi", "framework": "LTV to CAC" },
+    { "point": "No one pays for a software middle layer; operators build their own dispatch.", "seat": "Bezos", "framework": "Undifferentiated heavy lifting" },
+    { "point": "Approval takes 12 to 24 months; subcontracting an approved operator skips the wait.", "seat": "Elon", "framework": "Work the limiting factor" },
+    { "point": "Health systems pay for the sample arriving, worth about nine times a software seat.", "seat": "Hormozi", "framework": "Value Equation" }
+  ],
+  "minority": { "seat": "Codie", "quote": "if the contacts turn out to be in retail, the merchant aggregator goes back on the table. It should not default to E.", "would_have_to_be_true": "Contacts are in retail, Wing or Zipline grants partner access in 60 days, and 5 merchants commit to $10+ a drop." },
+  "next_steps": [
+    { "when": "This week", "action": "10 calls with hospital lab and pharmacy logistics heads, 5 with certified operators." },
+    { "when": "By 2026-12-29", "action": "Operator subcontract signed at $25 or less per run, with indemnity." },
+    { "when": "By 2027-01-28", "action": "Two paid pilots signed; dispatch the first runs by hand." }
+  ],
+  "kill_criteria": "No operator subcontract by 2026-12-29 or no paid pilot by 2027-01-28: stop, keep the cash, and reconvene.",
+  "conditions": [
+    "By 2026-11-29: 10 healthcare contacts who pay to move an item today; price a ground courier buy under $300k",
+    "By 2026-12-29: Part 135 operator subcontract at $25 or less per run, with indemnity and insurance",
+    "By 2027-01-28: two paid pilots, $2,000 monthly minimum, 20+ runs a week, operator cost at or under 60% of price",
+    "Own chain-of-custody liability policy before the first paid run",
+    "First pilot's 30-day cash above 2x cost to win and serve before signing hospital two",
+    "By 2027-04-30: positive gross margin and runs per week growing weekly",
+    "At 2027-10-30: no customer above 40% of revenue",
+    "No lease, hire, or spend above $100k until the subcontract and pilots clear"
+  ],
+  "fights": [
+    { "crux": "Will anyone pay for a software layer?", "story": "Round 1 was unanimous for software. Bezos and Buffett argued no buyer exists and convinced themselves; Graham, Hormozi and Elon followed." },
+    { "crux": "Sell software or the delivery?", "story": "Hormozi and Elon argued the managed service; four seats moved from software to selling the delivery." },
+    { "crux": "What if the contacts are in retail?", "story": "Graham and Codie backed a retail merchant tool; Hormozi, Buffett and Elon said retail contacts mean wait. Unresolved." }
+  ],
+  "amendments": [
+    { "seat": "Bezos", "amendment": "Replace the fixed $50 floor with the 60% cost ratio.", "adopted": true, "reason": "Hormozi's 30-day cash test now guards the economics." },
+    { "seat": "Graham", "amendment": "Runs per week must grow weekly by month 6.", "adopted": true, "reason": "No objection." },
+    { "seat": "Hormozi", "amendment": "30-day pilot cash above 2x cost to win and serve before hospital two.", "adopted": true, "reason": "No objection." },
+    { "seat": "Buffett", "amendment": "Own liability policy plus operator indemnity before the first run.", "adopted": true, "reason": "Three other seats raised the same liability risk." },
+    { "seat": "Elon", "amendment": "At least 20 runs a week per pilot, reviewed weekly.", "adopted": true, "reason": "No objection." },
+    { "seat": "Codie", "amendment": "Price out buying a ground medical courier by day 30.", "adopted": true, "reason": "Cheap to check; no objection." },
+    { "seat": "Codie", "amendment": "Retail contacts reopen the merchant aggregator instead of waiting.", "adopted": false, "reason": "Three seats showed retail drops lose money; minority report." }
+  ],
+  "cheapest_test": "Before writing code, one health system signs a paid pilot letter and one operator quotes $25 or less a run in writing.",
+  "revisit": "2027-01-28 with signed pilots, run price, operator cost and runs per week; sooner if the contacts are in retail.",
+  "override_note": ""
+}

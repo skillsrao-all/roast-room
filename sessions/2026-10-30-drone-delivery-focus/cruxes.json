@@ -1,0 +1,27 @@
+{
+  "cruxes": [
+    {
+      "question": "Will anyone pay for a software layer, or do the big operators own it?",
+      "sides": [
+        { "position": "Real buyers exist in the middle", "seats": ["Hormozi", "Graham", "Elon", "Codie"] },
+        { "position": "Must argue: no buyer, operators build it", "seats": ["Bezos", "Buffett"] }
+      ]
+    },
+    {
+      "question": "Sell the delivery outcome as a managed service instead of software?",
+      "sides": [
+        { "position": "Software first", "seats": ["Bezos", "Graham", "Buffett", "Codie"] },
+        { "position": "Must argue: managed medical service", "seats": ["Hormozi", "Elon"] }
+      ]
+    },
+    {
+      "question": "If the contacts are in retail and food, does merchant software beat medical?",
+      "sides": [
+        { "position": "Medical is the buyer", "seats": ["Bezos", "Hormozi", "Elon"] },
+        { "position": "Must argue: retail merchant version", "seats": ["Graham", "Codie"] }
+      ]
+    }
+  ],
+  "unanimous": true,
+  "note": "All six picked software with no aircraft, so Round 2 tests whether anyone will pay for it and in which industry."
+}

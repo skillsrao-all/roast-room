@@ -1,0 +1,19 @@
+{
+  "option": "A",
+  "label": "GO WITH CONDITIONS",
+  "recommendation": "Sell medical delivery to health systems as a managed service, priced per run, and subcontract every flight to a certified operator. Buy no aircraft; the software is an internal tool.",
+  "conditions": [
+    "By 2026-11-29, name 10 healthcare contacts who pay to move a specific item today",
+    "By 2026-12-29, a Part 135 operator signs a subcontract at $25 or less per run, with insurance naming you",
+    "By 2027-01-28, two health systems sign paid pilots at $50 or more per run with a $2,000 monthly minimum",
+    "Subcontract cost at or under 60% of run price; positive gross margin by 2027-04-30",
+    "No customer above 40% of revenue at 2027-10-30"
+  ],
+  "next_steps": [
+    "This week: 10 calls with hospital logistics heads and 5 with certified operators",
+    "By 2026-12-29: operator subcontract signed",
+    "By 2027-01-28: two paid pilots signed"
+  ],
+  "cheapest_test": "One paid pilot letter at $50+ per run and one operator quote at $25 or less, before writing code.",
+  "kill_criteria": "No operator subcontract by 2026-12-29 or no paid pilot by 2027-01-28: stop A and keep the cash."
+}

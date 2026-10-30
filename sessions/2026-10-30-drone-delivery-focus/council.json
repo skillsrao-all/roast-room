@@ -1,0 +1,23 @@
+{
+  "title": "Which drone delivery use case to focus on",
+  "decision": "Which US drone delivery use case should a new, software-capable startup focus on in 2026, if any?",
+  "mode": "full",
+  "options": [
+    { "id": "A", "label": "Medical and healthcare logistics" },
+    { "id": "B", "label": "Suburban retail and food last mile" },
+    { "id": "C", "label": "Industrial B2B niche" },
+    { "id": "D", "label": "Software or infrastructure, no aircraft" },
+    { "id": "E", "label": "Don't start yet, wait for Part 108" }
+  ],
+  "weights": {
+    "bezos": { "weight": 3, "reason": "Which bet to make and how reversible it is" },
+    "hormozi": { "weight": 3, "reason": "Unit economics decide this market" },
+    "graham": { "weight": 2, "reason": "Real demand" },
+    "buffett": { "weight": 2, "reason": "Capital at risk against giants" },
+    "musk": { "weight": 2, "reason": "Regulation, utilization, and hardware constraints" },
+    "sanchez": { "weight": 2, "reason": "Build a fleet or ride someone else's" }
+  },
+  "seats": ["bezos", "graham", "hormozi", "buffett", "musk", "sanchez"],
+  "brief": "Pre-revenue founder with some funding, industry access, and software skills wants to enter US drone delivery. Wing with Walmart, Zipline, and Amazon dominate consumer delivery, costs run $15 to $25 per drop, and the FAA's routine-flight rule is still pending. The founder leans toward retail and food.",
+  "assumptions": ["About $750k in funding (assumed)", "Team of 2 to 3 (assumed)", "18 to 24 months of runway (assumed)", "Leans B because it is the biggest market (assumed)"]
+}
